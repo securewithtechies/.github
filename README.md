@@ -1,29 +1,29 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,30&height=200&section=header&text=SECURE%20WITH%20TECHIES&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Digital%20Defense%20Systems%20Initiative&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />    
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&random=false&width=600&height=70&lines=ACCESS_GRANTED;SYSTEM:LOADING...;INITIALIZING_DEFENSES;SECURE_MODE:ACTIVATED;LAST_LOGIN:2023-12-18 07:03:58;Founder:rahipatel1285;THREAT_LEVEL:ZERO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&random=false&width=600&height=70&lines=ACCESS_GRANTED%3BSYSTEM%3ALOADING...%3BINITIALIZING_DEFENSES%3BSECURE_MODE%3AACTIVATED%3BLAST_LOGIN%3A2023-12-18%2007%3A03%3A58%3BFounder%3Arahipatel1285%3BTHREAT_LEVEL%3AZERO" alt="Typing SVG" />
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 25px 0;">
         <a href="https://securewithtechies.com">
             <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-02012F?style=flat&logo=Safari&logoColor=00FF41&labelColor=black" alt="Website"/>
         </a>
-        <a href="https://twitter.com/securewtechies">
+        <a href="https://x.com/SecureWithTech">
             <img src="https://img.shields.io/badge/FOLLOW_SIGNAL-02012F?style=flat&logo=X&logoColor=00FF41&labelColor=black" alt="Twitter"/>
         </a>
         <a href="https://linkedin.com/company/securewithtechies">
             <img src="https://img.shields.io/badge/JOIN_NETWORK-02012F?style=flat&logo=LinkedIn&logoColor=00FF41&labelColor=black" alt="LinkedIn"/>
         </a>
-        <a href="https://youtube.com/securewithtechies">
+        <a href="https://youtube.com/@SecureWithTechies">
             <img src="https://img.shields.io/badge/ACCESS_ARCHIVES-02012F?style=flat&logo=YouTube&logoColor=00FF41&labelColor=black" alt="YouTube"/>
         </a>
         <a href="https://instagram.com/securewithtechies">
             <img src="https://img.shields.io/badge/VIEW_OPERATIONS-02012F?style=flat&logo=Instagram&logoColor=00FF41&labelColor=black" alt="Instagram"/>
         </a>
-        <a href="https://facebook.com/securewithtechies">
+        <a href="https://www.facebook.com/profile.php?id=61564840584526">
             <img src="https://img.shields.io/badge/CONNECT_PRESENCE-02012F?style=flat&logo=Facebook&logoColor=00FF41&labelColor=black" alt="Facebook"/>
         </a>
-        <a href="https://whatsapp.com/channel/securewithtechies">
+        <a href="https://whatsapp.com/channel/0029VaHk0oy3mFY3aRVYUV0m">
             <img src="https://img.shields.io/badge/SECURE_CHANNEL-02012F?style=flat&logo=WhatsApp&logoColor=00FF41&labelColor=black" alt="WhatsApp"/>
         </a>
-        <a href="https://medium.com/@securewithtechies">
+        <a href="https://securewithtechies.medium.com/">
             <img src="https://img.shields.io/badge/READ_INTELLIGENCE-02012F?style=flat&logo=Medium&logoColor=00FF41&labelColor=black" alt="Medium"/>
         </a>
         <a href="https://threads.net/@securewithtechies">
